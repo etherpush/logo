@@ -10,3 +10,11 @@
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
   </a>
 </p>
+
+---
+
+> [etherpush.io](https://etherpush.io) &nbsp;&middot;&nbsp;
+> GitHub [@etherpush](https://github.com/etherpush) &nbsp;&middot;&nbsp;
+> Twitter [@etherpush](https://twitter.com/etherpush)
+
+---
